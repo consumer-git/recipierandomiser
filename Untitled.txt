@@ -1,0 +1,3 @@
+
+sudo chmod 775 //Users/merrillsequeira/Google Drive/guiapplication/RandomRecipePicker-main/starter_files/db/recipes.db/
+sudo chmod 664 //Users/merrillsequeira/Google Drive/guiapplication/RandomRecipePicker-main/starter_files/db/recipes.db
